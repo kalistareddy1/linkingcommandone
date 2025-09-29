@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-        <exec.mainClass>com.mycompany.practest_question4_1.PracTest_Question4_1</exec.mainClass>
+        <exec.mainClass>com.mycompany.practest_question4_1.Prac_Test_Question4_1_Renamed</exec.mainClass>
     </properties>
 </project>

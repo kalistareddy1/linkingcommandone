@@ -8,7 +8,7 @@ package com.mycompany.practest_question4_1;
  *
  * @author kalis
  */
-public class PracTest_Question4_1 {
+public class Prac_Test_Question4_1_Renamed {
 
     public static void main(String[] args) {
         String[] manufacturer = {"CANON", "SONY","NIKON"};
